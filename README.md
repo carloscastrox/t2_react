@@ -64,6 +64,7 @@ To run the application, follow these steps:
 ```
 
 ## 📸 Screenshots
+![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbKnjWdu4XcppCb4EtxgZXmamP92oBHgyrMEaxTudVutpydpM8JwgnSg&s=10)
 
 ## 🤝 Contributing
 To contribute to the project, please follow these steps:
